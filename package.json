@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/makenapaisleyfan53/Makena-Paisley-Bot.git"
+    "url": "git+https://github.com/Prodigious-Peeps/Makena-Paisley-Bot.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/makenapaisleyfan53/Makena-Paisley-Bot/issues"
+    "url": "https://github.com/Prodigious-Peeps/Makena-Paisley-Bot/issues"
   },
-  "homepage": "https://github.com/makenapaisleyfan53/Makena-Paisley-Bot#readme",
+  "homepage": "https://github.com/Prodigious-Peeps/Makena-Paisley-Bot#readme",
   "dependencies": {
     "discord.js": "^11.5.1"
   }
